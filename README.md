@@ -1,16 +1,17 @@
-### Hi there 👋
+# 📢 Fodded
 
-<!--
-**fodded/fodded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`A Java developer from Russia`**
 
-Here are some ideas to get you started:
+I'm a Russian java developer, studying java since 2020. All my projects were done to get experience in development and in the future to be as useful as possible, in next few years i plan to continue learn java and develop to know this programming language perfectly. Most of my projects are private, i don't really code a lot for public repositories because often i try to develop the projects i code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+i have worked with forge-api, spigot-api, MCP and others such as:
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fodded&count_private=true)
