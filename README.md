@@ -2,9 +2,9 @@
 
 **`A Java developer from Russia`**
 
-I'm a Russian java developer, studying java since 2020. All my projects were done to get experience in development and in the future to be as useful as possible, in next few years i plan to continue learn java and develop to know this programming language perfectly. Most of my projects are private, i don't really code a lot for public repositories because often i try to develop the projects i code
+I'm a Russian java developer, studying java since 2020. All my projects were done to get experience in development and in the future to be as useful as possible, in next few years I plan to continue learn java and develop to know this programming language perfectly. Most of my projects are private, I don't really code a lot for public repositories because often I try to develop the projects I code
 
-i have worked with forge-api, spigot-api, MCP and others such as:
+I've worked with forge-api, spigot-api, MCP and others such as:
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
